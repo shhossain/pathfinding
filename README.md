@@ -12,19 +12,19 @@
 
 - ###### SET ANY ROWS YOU WANT (Ideal range 30-50) (ROW increase will affet your perfomence, Total Cells will be `ROWS*ROWS*1.5`)
 
-- ###### SET SPEED (DEfault 2)
+- ###### SET SPEED (Default 2)
 
-- ###### Frist two point will be  start and end (`Ctrl + S` will reset Start,End)
+- ###### Frist two points will be  start and end (`Ctrl + S` will reset Start,End)
 
-- ###### Tap `c` to create random barriers (Clicking `c` again will creeate more barriers)
+- ###### Tap `c` to create random barriers (Clicking `c` again will create more barriers)
 
 - ###### Click on any cell to create barrier
 
-- ###### Click on any barrier will clear the path
+- ###### Click on any barrier will remove the barrier
 
 
 
-- ###### After adding start and end cell anf with or without any barrier
+- ## After adding start and end cell, with or without any barrier 
 
 - ###### Tap `a` to perform 'A(Start) Pathfinding Operation'(If no path is available program will probaly quit)
 
@@ -37,6 +37,6 @@
 
 ## Advanced Control
 - ###### `Ctrl + s` will reset start and end.
-- ###### `Ctrl + [2-8]` will stope threads working with that algoritham.
+- ###### `Ctrl + [2-8]` will stop threads working with that algoritham.
 
 
